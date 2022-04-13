@@ -1,6 +1,6 @@
 :root {
   --color-primary: #eb2f64;
-  --color-primark-light: #ff3366;
+  --color-primary-light: #ff3366;
   --color-primary-dark: #ba265d;
 
   --color-grey-light-1: #faf9f9;
@@ -39,7 +39,7 @@ body {
   color: var(--color-grey-dark-2);
   background-image: linear-gradient(
     to right bottom,
-    var(--color-primark-light),
+    var(--color-primary-light),
     var(--color-primary-dark)
   );
   background-size: cover;
